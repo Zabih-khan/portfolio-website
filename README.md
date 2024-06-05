@@ -1,13 +1,9 @@
 
-Introduction
 
-Welcome to my portfolio! I'm Abdul Razaque, a final-year software engineering student and a passionate Data Scientist at Xflow Research Inc. in Islamabad. This portfolio showcases my skills, experiences, and ongoing journey in the realm of data science and machine learning.
+This portfolio showcases my skills, experiences, and ongoing journey in the realm of data science and machine learning.
 
- Professional Experience
 
-# Data Scientist at Xflow Research Inc.
 
-I currently contribute as a Data Scientist at Xflow Research Inc., where I apply my skills and commitment to meaningful data science projects.
 
  Key Skills
 
@@ -30,4 +26,4 @@ I am dedicated to expanding my skill set and exploring new technologies. Current
 Thank you for taking the time to explore my portfolio. I'm excited about the possibilities that lie ahead in the field of data science!
 
 Best regards,
-Abdul Razaque
+Zabih
